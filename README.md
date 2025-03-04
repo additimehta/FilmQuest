@@ -15,7 +15,7 @@ Welcome to **FilmQuest**, a modern movie exploration website built with **React*
 
 ---
 
-## 🤸 Quick Start
+##  Quick Start
 
 Follow these steps to set up the project locally on your machine.
 

@@ -1,10 +1,10 @@
-🎬 **FilmQuest* (or your chosen project name)
+🎬 **FilmQuest* 
 
 Welcome to **FilmQuest**, a modern movie exploration website built with **React**, **Tailwind CSS**, and **Appwrite**. This platform allows users to browse, search, and discover trending movies with a sleek and responsive user interface.
 
 ---
 
-## 🔋 Features
+## Features
 
 - **Browse All Movies**: Explore a wide range of movies available on the platform.
 - **Search Movies**: Easily search for specific movies using a powerful search function.
